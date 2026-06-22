@@ -1,4 +1,4 @@
-# 📊 Intelligent Data Extraction & Quality Assurance Pipeline
+# 📊 Automated Data Extraction & QA Pipeline using Python, OCR, and Regex
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
