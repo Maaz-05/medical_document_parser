@@ -3,8 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
 ![OCR](https://img.shields.io/badge/OCR-Tesseract-orange)
+![Regex](https://img.shields.io/badge/Regex-Pattern%20Matching-red)
 ![Testing](https://img.shields.io/badge/Testing-Pytest-yellow)
-
 ## 📌 Overview
 
 An automated **Data Quality Assurance and Document Intelligence system** built using Python, FastAPI, OCR, and data processing techniques.
@@ -25,25 +25,21 @@ It simulates real-world Data QA workflows involving:
 
 # 🎯 Business Problem
 
-Companies receive large amounts of unstructured data from different sources:
+Healthcare organizations receive large amounts of unstructured medical documents such as:
 
-- Receipts
-- Invoices
-- Emails
-- Reports
-- Documents
+- Patient information forms
+- Prescription documents
+- Medical records
+- Healthcare reports
 
-Manual processing creates problems:
+Manually processing these documents creates challenges:
 
-❌ Data inconsistency  
-❌ Human errors  
-❌ Slow processing  
+❌ Data entry errors  
 ❌ Missing information  
+❌ Inconsistent formatting  
+❌ Slow processing time  
 
-
-This project automates the extraction and validation process to improve **data accuracy and reliability**.
-
-
+This project automates document processing by extracting, cleaning, and validating important medical information from unstructured PDF documents.
 ---
 
 # 🚀 Key Features
@@ -379,9 +375,5 @@ GitHub:
 YOUR_GITHUB_LINK
 
 LinkedIn:
-YOUR_LINKEDIN_LINK
+https://www.linkedin.com/in/maaz-ahmad-9b1aa7325/
 
-
----
-
-⭐ If you found this project useful, consider giving it a star!
