@@ -233,7 +233,7 @@ medical-document-parser
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/intelligent-data-extraction-pipeline.git
+git clone https://github.com/Maaz-05/medical_document_parser.git
 ```
 
 
@@ -370,9 +370,6 @@ This project demonstrates practical experience with:
 # 👨‍💻 Author
 
 **Maaz**
-
-GitHub:
-YOUR_GITHUB_LINK
 
 LinkedIn:
 https://www.linkedin.com/in/maaz-ahmad-9b1aa7325/
